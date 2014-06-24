@@ -8,11 +8,11 @@ Here's what's needed to make it work on both normal and Retina displays (WebKit 
 
 ```css
 html {
-	cursor: url('images/cursor.png') 30 30, auto;
+	cursor: url('images/cursor.png') 39 39, auto;
 	cursor: -webkit-image-set(
 		url('images/cursor.png') 1x,
 		url('images/cursor@2x.png') 2x
-	) 30 30, auto;
+	) 39 39, auto;
 }
 ```
 ## What to do now?
