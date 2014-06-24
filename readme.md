@@ -1,4 +1,4 @@
-# Mobile Cursor Image 
+# Mobile Cursor Image Replacement for Framer.js
 
 This is a super simple cursor image replacement you can use with [framer.js](https://github.com/koenbok/framer) base template, inspired by the one used in the iOS simulator and the super cool [Framer Studio](http://framerjs.com)..
 
@@ -13,6 +13,7 @@ html {
 	) 30 30, auto;
 }
 ```
+## What to do now?
 
 If you want the cursor to appear in the entire canvas, you can use the code as is. 
 
