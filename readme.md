@@ -1,6 +1,8 @@
-# Mobile Cursor Image Replacement for Framer.js
+# Mobile Cursor Image for Framer.js
 
-This is a super simple cursor image replacement you can use with [framer.js](https://github.com/koenbok/framer) base template, inspired by the one used in the iOS simulator and the super cool [Framer Studio](http://framerjs.com)..
+This is a super simple cursor image replacement you can use with your [Framer.js](https://github.com/koenbok/framer) projects, inspired by the one used in the iOS simulator and the super cool [Framer Studio](http://framerjs.com).
+
+Here's what it looks like: https://dribbble.com/shots/1612931-Cursor-Dribbble
 
 Here's what's needed to make it work on both normal and Retina displays:
 
@@ -17,7 +19,7 @@ html {
 
 If you want the cursor to appear in the entire canvas, you can use the code as is. 
 
-If you want to restrict its appearance to a specific area (i.e. only when inside a device mockup) you can change it or move it to a more specific attribute.
+If you want to restrict its appearance to a specific area (i.e. only when inside a device mockup) you can change it or move the content of the declaration to a more specific attribute.
 
 Hope you find it useful.
 
