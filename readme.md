@@ -1,10 +1,10 @@
 # Mobile Cursor Image for Framer.js
 
-This is a super simple cursor image replacement you can use with your [Framer.js](https://github.com/koenbok/framer) projects, inspired by the one used the super cool [Framer Studio](http://framerjs.com).
+This is a super simple cursor image replacement you can use with your [Framer.js](https://github.com/koenbok/framer) projects, inspired by the one used in the super cool [Framer Studio](http://framerjs.com).
 
 Here's what it looks like: https://dribbble.com/shots/1612931-Cursor-Dribbble
 
-Here's what's needed to make it work on both normal and Retina displays:
+Here's what's needed to make it work on both normal and Retina displays (WebKit only):
 
 ```css
 html {
