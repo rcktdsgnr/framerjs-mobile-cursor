@@ -3,11 +3,11 @@ This is a super simple cursor image replacement you can use with [framer.js](htt
 Here's what's needed to make it work on both normal and Retina displays:
 
 	html {
-  	cursor: url('images/cursor.png') 30 30, auto;
-  	cursor: -webkit-image-set(
-    	url('images/cursor.png') 1x,
-    	url('images/cursor@2x.png') 2x
-    	) 30 30, auto;
+  		cursor: url('images/cursor.png') 30 30, auto;
+  		cursor: -webkit-image-set(
+    		url('images/cursor.png') 1x,
+    		url('images/cursor@2x.png') 2x
+    		) 30 30, auto;
 	}
 
 If you want the cursor to appear in the entire canvas, you can use the code as is. 
