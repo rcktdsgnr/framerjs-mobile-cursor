@@ -19,7 +19,7 @@ html {
 
 If you want the cursor to appear in the entire canvas, you can use the code as is. 
 
-If you want to restrict its appearance to a specific area (i.e. only when inside a device mockup) you can change it or move the content of the declaration to a more specific attribute.
+If you want to restrict its appearance to a specific area (i.e. only when inside a device mockup) you can change it or move the content of the declaration to a more specific selector.
 
 Hope you find it useful.
 
